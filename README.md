@@ -8,9 +8,9 @@
 
 ## 📌 Enlaces Obligatorios de Entrega
 
-- 🎥 **Video Demostrativo (YouTube / Drive con acceso público):** `[INSERTAR_AQUI_LINK_DEL_VIDEO]`  
+- 🎥 **Video Demostrativo (YouTube / Drive con acceso público):** "https://drive.google.com/file/d/19-UEELErnwk4COONxRxLnskkU4ec9A9Q/view?usp=sharing"  
   *(Duración: 10 a 15 minutos explicando estructura de datos y todos los flujos de consola)*
-- 📄 **Documentación Académica y Técnica en PDF:** [Documentacion_TPI.pdf](Documentacion_TPI.pdf) *(Disponible en la raíz de este proyecto o en: `[INSERTAR_AQUI_LINK_DEL_PDF_SI_SE_ALOJA_EXTERNAMENTE]`)*
+- 📄 **Documentación Académica y Técnica en PDF:** [Documentacion_TPI.pdf](Documentacion_TPI.pdf) *(Disponible en la raíz de este proyecto
 - 💻 **Repositorio en GitHub:** [https://github.com/luisdsm23/TPI-Salgado-Blaskovic](https://github.com/luisdsm23/TPI-Salgado-Blaskovic)
 
 ---
